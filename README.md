@@ -1,0 +1,2 @@
+## Summary
+This project was done as a part of the Data Mining course at the University of Mannheim. In this project, our team performed binary classification using six different algorithms, to predict incidence of heart diseases. This project was aimed at reducing adverse selection and improving risk control. We formulated a business case for health care/insurance providers as well.
